@@ -1,1 +1,1 @@
-# cis3296_project_proposal
+# cis3296_Book_Buddies
