@@ -31,7 +31,7 @@
 <li>Navigate to the folder called djangotutorial and type the command: </li>
 <ol><li>pip install -r requirements.txt</li></ol>
 <li>Start local server by typing the command:</li> 
-<ol><li>python3 manage.py runserver</li></ol>
+<ol><li>python manage.py runserver</li></ol>
 <li>Visit <a href="http://127.0.0.1:8000">http://127.0.0.1:8000</li>
 
 </ol>
