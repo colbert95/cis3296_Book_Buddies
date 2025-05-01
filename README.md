@@ -2,7 +2,7 @@
 <h2>Project Abstract</h2>
 <p><i>This project proposes a web application that enables users to create or join a book club, providing a customizable and interactive reading experience. Each club owner can assign different roles to its members, allowing for a structured and engaging community. Through a voting system, members can submit book suggestions and collectively decide on the next read, ensuring that everyone has a voice in the selection process. The platform integrates Discord authentication, streamlining the login process and fostering seamless communication among members. By leveraging scheduled book discussions, users can easily engage in meaningful conversations about their current reads, enhancing the collaborative nature of the book club experience.</i></p>
 
-<h2>Conecptual Design</h2>
+<h2>Conceptual Design</h2>
 <p>All development of this web application will be done on the operating system Ubuntu (which can easily be installed using WSL) and the programming language will be Python using the web framework Django. Since Django supports SQLite natively, that will also be the database that will be used.  The web Application will have the following pages: </p>
 <ul>
   <li><strong>Home Page</strong></li>
